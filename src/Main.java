@@ -1,8 +1,7 @@
 import factorymethod.*;
-import singleton.dbcentral;
-
 import java.util.HashMap;
 import java.util.Map;
+import singleton.dbcentral;
 
 public class Main {
 
